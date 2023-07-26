@@ -37,68 +37,44 @@ const CourseCatOne = () => {
         <section className="thm-gray-bg course-category-one">
             <div className="container-fluid text-center">
                 <div className="block-title text-center">
-                    <h2 className="block-title__title">Browse online <br />
-                        course categories</h2>
+                    <h2 className="block-title__title">Latest Youtube Videos</h2>
                 </div>
                 <div className="course-category-one__carousel">
                     <Swiper  {...params}>
                         <div style={{width:'250px',marginRight:'2rem'}}>
                           
-                                <ReactPlayer url={"https://www.youtube.com/watch?v=qBQjDJQCAG8&ab_channel=LawEasy"}/>
+                                <ReactPlayer url={"https://www.youtube.com/watch?v=KRUO2jNiKaY&ab_channel=LawEasy"}/>
                          
                         </div>
                         <div style={{width:'250px',marginRight:'2rem'}}>
-                        <ReactPlayer url={"https://www.youtube.com/watch?v=qBQjDJQCAG8&ab_channel=LawEasy"}/>
+                        <ReactPlayer url={"https://www.youtube.com/watch?v=qBQjDJQCAG8&t=5s&ab_channel=LawEasy"}/>
 
                         </div>
                         <div style={{width:'250px',marginRight:'2rem'}}>
-                        <ReactPlayer url={"https://www.youtube.com/watch?v=qBQjDJQCAG8&ab_channel=LawEasy"}/>
+                        <ReactPlayer url={"https://www.youtube.com/watch?v=IIKPJTUtq_g&ab_channel=LawEasy"}/>
 
                         </div>
                         <div style={{width:'250px',marginRight:'2rem'}}>
-                        <ReactPlayer url={"https://www.youtube.com/watch?v=qBQjDJQCAG8&ab_channel=LawEasy"}/>
+                        <ReactPlayer url={"https://www.youtube.com/watch?v=po8wD6q-6Ko&ab_channel=LawEasy"}/>
 
                         </div>
                         <div style={{width:'250px',marginRight:'2rem'}}>
-                        <ReactPlayer url={"https://www.youtube.com/watch?v=qBQjDJQCAG8&ab_channel=LawEasy"}/>
+                        <ReactPlayer url={"https://www.youtube.com/watch?v=8m5beLN5b-k&ab_channel=LawEasy"}/>
 
                         </div>
                         <div style={{width:'250px',marginRight:'2rem'}}>
-                        <ReactPlayer url={"https://www.youtube.com/watch?v=qBQjDJQCAG8&ab_channel=LawEasy"}/>
+                        <ReactPlayer url={"https://www.youtube.com/watch?v=fHnmJKePrdE&ab_channel=LawEasy"}/>
 
                         </div>
                         <div style={{width:'250px',marginRight:'2rem'}}>
-                        <ReactPlayer url={"https://www.youtube.com/watch?v=qBQjDJQCAG8&ab_channel=LawEasy"}/>
+                        <ReactPlayer url={"https://www.youtube.com/watch?v=gYC5xXmGp7w&ab_channel=LawEasy"}/>
 
                         </div>
-                        <div style={{width:'250px',marginRight:'2rem'}}>
-                            <div className="course-category-one__single color-2">
-                                <div className="course-category-one__icon">
-                                    <i className="kipso-icon-web-programming"></i>
-                                </div>
-                                <h3 className="course-category-one__title"><a href="#">Development</a></h3>
-                            </div>
-                        </div>
-                        <div style={{width:'250px',marginRight:'2rem'}}>
-                            <div className="course-category-one__single color-3">
-                                <div className="course-category-one__icon">
-                                    <i className="kipso-icon-music-player"></i>
-                                </div>
-                                <h3 className="course-category-one__title"><a href="#">Music</a></h3>
-                            </div>
-                        </div>
-                        <div style={{width:'250px',marginRight:'2rem'}}>
-                            <div className="course-category-one__single color-4">
-                                <div className="course-category-one__icon">
-                                    <i className="kipso-icon-camera"></i>
-                                </div>
-                                <h3 className="course-category-one__title"><a href="#">Photography</a></h3>
-                            </div>
-                        </div>
+              
                     </Swiper>
                 </div>
 
-                <a href="#" className="thm-btn">View All Categories</a>
+                {/* <a href="#" className="thm-btn">View All Categories</a> */}
             </div>
         </section>
     );

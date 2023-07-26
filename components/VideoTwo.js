@@ -29,8 +29,7 @@ export default class VideoTwo extends Component {
                             </div>
                             <div className="col-lg-5 d-flex justify-content-lg-end justify-content-sm-start">
                                 <div className="my-auto">
-                                    <ModalVideo channel='youtube' isOpen={this.state.isOpen}  videoId='Tl4bQBfOtbg' onClose={() => this.setState({isOpen: false})} />
-                                    <div onClick={this.openModal} className="video-two__popup"><i className="fa fa-play"></i>
+                                    <div onClick={()=>window.open("https://www.youtube.com/@laweasy2222")} className="video-two__popup"><i className="fa fa-play"></i>
                                     </div>
                                 </div>
                             </div>
