@@ -19,7 +19,7 @@ import NavThree from "../components/NavThree";
 
 const HomePage = () => (
 
-    <Layout pageTitle="Kipso - React Next Online Education Learning & LMS Template">
+    <Layout pageTitle="law easy class indore">
       <Topbar />
       <NavThree />
       <SliderOne />
