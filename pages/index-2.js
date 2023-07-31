@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from "../components/Layout";
-import NavTwo from "../components/NavTwo";
+import NavThree from "../components/NavThree";
 import SliderTwo from "../components/SliderTwo";
 import Footer from "../components/Footer";
 import CourseCatTwo from "../components/CourseCatTwo";
