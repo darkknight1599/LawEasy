@@ -21,7 +21,7 @@ export default class VideoTwo extends Component {
                         <div className="row">
                             <div className="col-lg-7">
                                 <div className="video-two__content">
-                                    <h2 className="video-two__title">Kipso one & only <br />
+                                    <h2 className="video-two__title">Law Easy is only <br />
                                         mission is to extend <br />
                                         your knowledge base</h2>
                                     <a href="#" className="thm-btn">Learn More</a>
