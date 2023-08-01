@@ -50,13 +50,13 @@ export default class AboutTwo extends Component {
                                         </div>
                                     </div>
                                 </div>
-                                <a href="#" className="thm-btn">Learn More</a>
+                                {/* <a href="#" className="thm-btn">Learn More</a> */}
                             </div>
                         </div>
                         <div className="col-xl-6 d-flex justify-content-xl-end justify-content-sm-center">
                             <div className="about-two__image">
                                 <span className="about-two__image-dots"></span>
-                                <img src="/assets/images/about.jpeg" alt="" width="529px" height="529px"/>
+                                <img src="/assets/images/wadhwani1.jpeg" alt="" width="529px" height="529px"/>
                                     <div className="about-two__count">
                                         <div className="about-two__count-text">Trusted by
                                             <span className="counter">

@@ -28,10 +28,10 @@ class AboutOne extends Component {
                         <div className="about-one__img">
                             <div className="row">
                                 <div className="col-lg-6">
-                                    <img src="assets/images/about-2-1.jpg" alt="" />
+                                    <img src="assets/images/student.jpg" alt="" width="570" height="298" />
                                 </div>
                                 <div className="col-lg-6">
-                                    <img src="assets/images/about-2-2.jpg" alt="" />
+                                    <img src="assets/images/student2.jpg" alt="" width="570" height="298"/>
                                 </div>
                             </div>
                             <div className="about-one__review">
@@ -55,7 +55,7 @@ class AboutOne extends Component {
                                 slightly <br /> believable.
                                 Lorem
                                 Ipsn gravida nibh vel velit auctor aliquetn auci elit cons.</p>
-                        <a href="#" className="thm-btn about-one__btn">Start Learning Now</a>
+                        {/* <a href="#" className="thm-btn about-one__btn">Start Learning Now</a> */}
                     </div>
             </section>
         );
