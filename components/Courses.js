@@ -9,7 +9,7 @@ const Courses = () => {
                     <div className="col-lg-4">
                         <div className="course-one__single">
                             <div className="course-one__image">
-                                <img src="/assets/images/course-1-1.jpg" alt="" />
+                                <img src="/assets/images/clat.jpg" alt="" width="370px" height="243px" />
                                     {/* <i className="far fa-heart"></i> */}
                             </div>
                             <div className="course-one__content">
@@ -45,7 +45,7 @@ const Courses = () => {
                     <div className="col-lg-4">
                         <div className="course-one__single">
                             <div className="course-one__image">
-                                <img src="/assets/images/course-1-2.jpg" alt="" />
+                                <img src="/assets/images/cuet.jpeg" alt="" width="370px" height="243px"/>
                                     {/* <i className="far fa-heart"></i> */}
                             </div>
                             <div className="course-one__content">
@@ -80,7 +80,7 @@ const Courses = () => {
                     <div className="col-lg-4">
                         <div className="course-one__single">
                             <div className="course-one__image">
-                                <img src="/assets/images/course-1-3.jpg" alt="" />
+                                <img src="/assets/images/course-1-3.jpg" alt="" width="370px" height="243px"/>
                                     {/* <i className="far fa-heart"></i> */}
                             </div>
                             <div className="course-one__content">
@@ -116,7 +116,7 @@ const Courses = () => {
                     <div className="col-lg-4">
                         <div className="course-one__single">
                             <div className="course-one__image">
-                                <img src="/assets/images/course-1-4.jpg" alt="" />
+                                <img src="/assets/images/judiciary.webp" alt="" width="370px" height="243px"/>
                                     {/* <i className="far fa-heart"></i> */}
                             </div>
                             <div className="course-one__content">
@@ -154,7 +154,7 @@ const Courses = () => {
                     <div className="col-lg-4">
                         <div className="course-one__single">
                             <div className="course-one__image">
-                                <img src="/assets/images/course-1-5.jpg" alt="" />
+                                <img src="/assets/images/course-1-5.jpg" alt="" width="370px" height="243px"/>
                                     {/* <i className="far fa-heart"></i> */}
                             </div>
                             <div className="course-one__content">
@@ -190,7 +190,7 @@ const Courses = () => {
                     <div className="col-lg-4">
                         <div className="course-one__single">
                             <div className="course-one__image">
-                                <img src="/assets/images/course-1-6.jpg" alt="" />
+                                <img src="/assets/images/course-1-6.jpg" alt="" width="370px" height="243px"/>
                                     {/* <i className="far fa-heart"></i> */}
                             </div>
                             <div className="course-one__content">
@@ -226,7 +226,7 @@ const Courses = () => {
                     <div className="col-lg-4">
                         <div className="course-one__single">
                             <div className="course-one__image">
-                                <img src="/assets/images/course-1-6.jpg" alt="" />
+                                <img src="/assets/images/course-1-6.jpg" alt="" width="370px" height="243px"/>
                                     {/* <i className="far fa-heart"></i> */}
                             </div>
                             <div className="course-one__content">
@@ -262,7 +262,7 @@ const Courses = () => {
                     <div className="col-lg-4">
                         <div className="course-one__single">
                             <div className="course-one__image">
-                                <img src="/assets/images/course-1-6.jpg" alt="" />
+                                <img src="/assets/images/course-1-6.jpg" alt="" width="370px" height="243px"/>
                                     {/* <i className="far fa-heart"></i> */}
                             </div>
                             <div className="course-one__content">
@@ -298,7 +298,7 @@ const Courses = () => {
                     <div className="col-lg-4">
                         <div className="course-one__single">
                             <div className="course-one__image">
-                                <img src="/assets/images/course-1-6.jpg" alt="" />
+                                <img src="/assets/images/course-1-6.jpg" alt="" width="370px" height="243px"/>
                                     {/* <i className="far fa-heart"></i> */}
                             </div>
                             <div className="course-one__content">
