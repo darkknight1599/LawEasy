@@ -80,7 +80,7 @@ const Courses = () => {
                     <div className="col-lg-4">
                         <div className="course-one__single">
                             <div className="course-one__image">
-                                <img src="/assets/images/course-1-3.jpg" alt="" width="370px" height="243px"/>
+                                <img src="/assets/images/adj.jpeg" alt="" width="370px" height="243px"/>
                                     {/* <i className="far fa-heart"></i> */}
                             </div>
                             <div className="course-one__content">
@@ -154,7 +154,7 @@ const Courses = () => {
                     <div className="col-lg-4">
                         <div className="course-one__single">
                             <div className="course-one__image">
-                                <img src="/assets/images/course-1-5.jpg" alt="" width="370px" height="243px"/>
+                                <img src="/assets/images/aibe.jpeg" alt="" width="370px" height="243px"/>
                                     {/* <i className="far fa-heart"></i> */}
                             </div>
                             <div className="course-one__content">
@@ -190,7 +190,7 @@ const Courses = () => {
                     <div className="col-lg-4">
                         <div className="course-one__single">
                             <div className="course-one__image">
-                                <img src="/assets/images/course-1-6.jpg" alt="" width="370px" height="243px"/>
+                                <img src="/assets/images/adpo.jpeg" alt="" width="370px" height="243px"/>
                                     {/* <i className="far fa-heart"></i> */}
                             </div>
                             <div className="course-one__content">
@@ -226,7 +226,7 @@ const Courses = () => {
                     <div className="col-lg-4">
                         <div className="course-one__single">
                             <div className="course-one__image">
-                                <img src="/assets/images/course-1-6.jpg" alt="" width="370px" height="243px"/>
+                                <img src="/assets/images/llb.jpeg" alt="" width="370px" height="243px"/>
                                     {/* <i className="far fa-heart"></i> */}
                             </div>
                             <div className="course-one__content">
@@ -262,7 +262,7 @@ const Courses = () => {
                     <div className="col-lg-4">
                         <div className="course-one__single">
                             <div className="course-one__image">
-                                <img src="/assets/images/course-1-6.jpg" alt="" width="370px" height="243px"/>
+                                <img src="/assets/images/ballb.jpg" alt="" width="370px" height="243px"/>
                                     {/* <i className="far fa-heart"></i> */}
                             </div>
                             <div className="course-one__content">
@@ -298,7 +298,7 @@ const Courses = () => {
                     <div className="col-lg-4">
                         <div className="course-one__single">
                             <div className="course-one__image">
-                                <img src="/assets/images/course-1-6.jpg" alt="" width="370px" height="243px"/>
+                                <img src="/assets/images/llm.jpeg" alt="" width="370px" height="243px"/>
                                     {/* <i className="far fa-heart"></i> */}
                             </div>
                             <div className="course-one__content">
