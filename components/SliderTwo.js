@@ -31,7 +31,7 @@ const SliderTwo = () => {
                                         courses</p>
                                     <h3 className="banner-two__title banner-two__light-color">Read & learn <br />
                                         in an easy way</h3>
-                                    <a href="#" className="thm-btn banner-two__btn">Learn More</a>
+                                    {/* <a href="#" className="thm-btn banner-two__btn">Learn More</a> */}
                                 </div>
                             </div>
                         </div>
@@ -45,7 +45,7 @@ const SliderTwo = () => {
                                         courses</p>
                                     <h3 className="banner-two__title banner-two__light-color">Read & learn <br />
                                         in an easy way</h3>
-                                    <a href="#" className="thm-btn banner-two__btn">Learn More</a>
+                                    {/* <a href="#" className="thm-btn banner-two__btn">Learn More</a> */}
                                 </div>
                             </div>
                         </div>

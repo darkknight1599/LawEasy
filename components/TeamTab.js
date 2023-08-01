@@ -67,7 +67,7 @@ const TeamTab = () => {
                                             </div>
                                         </div>
 
-                                        <a href="#" className="thm-btn team-tab__btn">Learn More</a>
+                                        {/* <a href="#" className="thm-btn team-tab__btn">Learn More</a> */}
                                     </div>
                                 </div>
                             </div>

@@ -8,7 +8,7 @@ const CallToActionOne = () => {
                     mission is to extend <br />
                     your knowledge base</h2>
                 <div className="cta-one__btn-block">
-                    <a href="#" className="thm-btn cta-one__btn">Learn More</a>
+                    {/* <a href="#" className="thm-btn cta-one__btn">Learn More</a> */}
                 </div>
             </div>
         </section>

@@ -16,7 +16,7 @@ const CallToActionFive = () => {
                     the community</h2>
                 <p className="cta-five__text">Duis aute irure dolor in reprehenderit in velit
                     esse</p>
-                <a href="#" className="thm-btn cta-five__btn">Learn More</a>
+                {/* <a href="#" className="thm-btn cta-five__btn">Learn More</a> */}
             </div>
         </section>
     );

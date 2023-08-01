@@ -37,7 +37,7 @@ const SliderOne = () => {
                                         Teach You</h3>
                                     <p className="banner-one__tag-line">are you ready to
                                         learn?</p>
-                                    <a href="#" className="thm-btn banner-one__btn">Learn More</a>
+                                    {/* <a href="#" className="thm-btn banner-one__btn">Learn More</a> */}
                                 </div>
                             </div>
                         </div>
@@ -55,7 +55,7 @@ const SliderOne = () => {
                                         Learning</h3>
                                     <p className="banner-one__tag-line">With LawEasy
                                         </p>
-                                    <a href="#" className="thm-btn banner-one__btn">Learn More</a>
+                                    {/* <a href="#" className="thm-btn banner-one__btn">Learn More</a> */}
                                 </div>
                             </div>
                         </div>
