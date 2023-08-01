@@ -16,12 +16,12 @@ const Teachers = () => {
                                 <p className="team-one__designation">Founder & Teacher</p>
                                 <p className="team-one__text">Recipient of 5 gold medals in law, Ex Government Advocate M.p. High Court Indore </p>
                             </div>
-                            <div className="team-one__social">
+                            {/* <div className="team-one__social">
                                 <a href="#"><i className="fab fa-twitter"></i></a>
                                 <a href="#"><i className="fab fa-facebook-square"></i></a>
                                 <a href="#"><i className="fab fa-pinterest-p"></i></a>
                                 <a href="#"><i className="fab fa-instagram"></i></a>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                     <div className="col-xl-3 col-lg-6 col-md-6 col-sm-12">
@@ -34,12 +34,12 @@ const Teachers = () => {
                                 <p className="team-one__designation">Teacher</p>
                                 <p className="team-one__text">BSc, MBA ( HR and Finance), LLB, LLM<br/><br/><br/></p>
                             </div>
-                            <div className="team-one__social">
+                            {/* <div className="team-one__social">
                                 <a href="#"><i className="fab fa-twitter"></i></a>
                                 <a href="#"><i className="fab fa-facebook-square"></i></a>
                                 <a href="#"><i className="fab fa-pinterest-p"></i></a>
                                 <a href="#"><i className="fab fa-instagram"></i></a>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                     {/* <div className="col-xl-3 col-lg-6 col-md-6 col-sm-12">

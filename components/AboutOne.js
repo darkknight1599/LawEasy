@@ -48,13 +48,9 @@ class AboutOne extends Component {
                                 <p className="about-one__review-text">students loved us</p>
                             </div>
                         </div>
-                        <p className="about-one__text">There are many variations of passages of lorem ipsum available, but
-                            the majority have
-                            <br />
-                                suffered alteration in some form, by injected humour words which don't look even
-                                slightly <br /> believable.
-                                Lorem
-                                Ipsn gravida nibh vel velit auctor aliquetn auci elit cons.</p>
+                        <p className="about-one__text">Law Easy classes provide comprehensive legal education,<br/>
+                         covering various aspects of the legal system, rights, and responsibilities.<br/> Students 
+                         learn about legal principles, analysis, and critical thinking to become competent legal professionals.</p>
                         {/* <a href="#" className="thm-btn about-one__btn">Start Learning Now</a> */}
                     </div>
             </section>

@@ -67,12 +67,12 @@ const TeachersDetails = () => {
                                 <h2 className="team-one__name"><a href="team-details.html">Adelaide Hunter</a></h2>
                                 <p className="team-one__designation">Teacher</p>
                             </div>
-                            <div className="team-one__social">
+                            {/* <div className="team-one__social">
                                 <a href="#"><i className="fab fa-twitter"></i></a>
                                 <a href="#"><i className="fab fa-facebook-square"></i></a>
                                 <a href="#"><i className="fab fa-pinterest-p"></i></a>
                                 <a href="#"><i className="fab fa-instagram"></i></a>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>
