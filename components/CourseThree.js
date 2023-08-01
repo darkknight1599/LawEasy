@@ -50,7 +50,7 @@ const CourseThree = () => {
             <div className="container">
                 <div className="course-one__carousel">
 
-                    <Swiper {...params} >
+                    <Swiper {...params}>
                     <div className="item">
                         <div className="course-one__single color-1">
                             <div className="course-one__image">
@@ -61,7 +61,7 @@ const CourseThree = () => {
                                 <a href="#" className="course-one__category">development</a>
                                 <div className="course-one__admin">
                                     <img src="/assets/images/team-1-1.jpg" alt="" />
-                                        by <Link href="/teacher-details"><a>Lou Guerrero</a></Link>
+                                        {/* by <Link href="/teacher-details"><a>Lou Guerrero</a></Link> */}
                                 </div>
                                 <h2 className="course-one__title"><Link href="/course-details"><a>New react bootcamp</a></Link></h2>
                                 <div className="course-one__stars">
@@ -81,7 +81,7 @@ const CourseThree = () => {
                                         Lectures</a>
                                     <a href="/course-details">$18</a>
                                 </div>
-                                <a href="#" className="course-one__link">See Preview</a>
+                                {/* <a href="#" className="course-one__link">See Preview</a> */}
                             </div>
                         </div>
                     </div>
@@ -95,7 +95,7 @@ const CourseThree = () => {
                                 <a href="#" className="course-one__category">It & Software</a>
                                 <div className="course-one__admin">
                                     <img src="/assets/images/team-1-2.jpg" alt="" />
-                                        by <Link href="/teacher-details"><a>Cora Diaz</a></Link>
+                                        {/* by <Link href="/teacher-details"><a>Cora Diaz</a></Link> */}
                                 </div>
                                 <h2 className="course-one__title"><Link href="/course-details"><a>Improve editing skills</a></Link></h2>
                                 <div className="course-one__stars">
