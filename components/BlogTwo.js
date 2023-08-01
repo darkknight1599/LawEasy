@@ -46,69 +46,69 @@ const BlogTwo = () => {
                 <div className="blog-two__carousel">
                     <Swiper {...params}>
                     <div className="item">
-                        <div className="blog-two__single" style={{backgroundImage: `url(assets/images/blog-2-1.jpg)`}}>
+                        <div className="blog-two__single" style={{backgroundImage: `url(assets/images/news1.jpg)`}}>
                             <div className="blog-two__inner">
-                                <a href="news-details.html" className="blog-two__date">
-                                    <span>25</span>
+                                {/* <a href="news-details.html" className="blog-two__date">
+                                    <span>23</span>
                                     Jul
-                                </a>
-                                <div className="blog-two__meta">
+                                </a> */}
+                                {/* <div className="blog-two__meta">
                                     <a href="#">by Admin</a>
                                     <a href="#">3 Comments</a>
-                                </div>
+                                </div> */}
                                 <h3 className="blog-two__title">
-                                    <a href="news-details.html">Summer high school journalism camp</a>
+                                    <a>News published on my research report on pending cases in judiciary<br/><br/><br/></a>
                                 </h3>
                             </div>
                         </div>
                     </div>
                     <div className="item">
-                        <div className="blog-two__single" style={{backgroundImage: `url(assets/images/blog-2-2.jpg)`}}>
+                        <div className="blog-two__single" style={{backgroundImage: `url(assets/images/news2.jpg)`}}>
                             <div className="blog-two__inner">
-                                <a href="news-details.html" className="blog-two__date">
-                                    <span>25</span>
+                                {/* <a href="news-details.html" className="blog-two__date">
+                                    <span>11</span>
                                     Jul
-                                </a>
-                                <div className="blog-two__meta">
+                                </a> */}
+                                {/* <div className="blog-two__meta">
                                     <a href="#">by Admin</a>
                                     <a href="#">3 Comments</a>
-                                </div>
+                                </div> */}
                                 <h3 className="blog-two__title">
-                                    <a href="news-details.html">Get a tips to develop a quality education</a>
+                                    <a>Lawyers of Indore demanded from the government under the banner of institution of justice</a>
                                 </h3>
                             </div>
                         </div>
                     </div>
                     <div className="item">
-                        <div className="blog-two__single" style={{backgroundImage: `url(assets/images/blog-2-3.jpg)`}}>
+                        <div className="blog-two__single" style={{backgroundImage: `url(assets/images/news3.webp)`}}>
                             <div className="blog-two__inner">
-                                <a href="news-details.html" className="blog-two__date">
-                                    <span>25</span>
+                                {/* <a href="news-details.html" className="blog-two__date">
+                                    <span>8</span>
                                     Jul
-                                </a>
-                                <div className="blog-two__meta">
+                                </a> */}
+                                {/* <div className="blog-two__meta">
                                     <a href="#">by Admin</a>
                                     <a href="#">3 Comments</a>
-                                </div>
+                                </div> */}
                                 <h3 className="blog-two__title">
-                                    <a href="news-details.html">Learn variety of programs and courses</a>
+                                    <a >Book on Limitation Act for Judiciary Aspirants in hindi and english by Law Easy<br/><br/></a>
                                 </h3>
                             </div>
                         </div>
                     </div>
                     <div className="item">
-                        <div className="blog-two__single" style={{backgroundImage: `url(assets/images/blog-2-1.jpg)`}}>
+                        <div className="blog-two__single" style={{backgroundImage: `url(assets/images/news4.webp)`}}>
                             <div className="blog-two__inner">
-                                <a href="news-details.html" className="blog-two__date">
-                                    <span>25</span>
+                                {/* <a href="news-details.html" className="blog-two__date">
+                                    <span>6</span>
                                     Jul
-                                </a>
-                                <div className="blog-two__meta">
+                                </a> */}
+                                {/* <div className="blog-two__meta">
                                     <a href="#">by Admin</a>
                                     <a href="#">3 Comments</a>
-                                </div>
+                                </div> */}
                                 <h3 className="blog-two__title">
-                                    <a href="news-details.html">Summer high school journalism camp</a>
+                                    <a >Family court visit by civil judge students of Law Easy <br/><br/><br/></a>
                                 </h3>
                             </div>
                         </div>
