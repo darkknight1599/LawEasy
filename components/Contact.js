@@ -11,10 +11,9 @@ const Contact = () => {
                                 <div className="contact-info-one__icon"><i className="kipso-icon-manager"></i>
                                 </div>
                                 <h2 className="contact-info-one__title">About Us </h2>
-                                <p className="contact-info-one__text">Lorem ipsum is simply free text <br /> available in
-                                    the market to
-                                    use <br />
-                                        deliver satisfaction.</p>
+                                <p className="contact-info-one__text">Premier legal education center, offering <br/>comprehensive 
+                                courses, expert faculty,<br/> and personalized guidance to empower students in their pursuit of 
+                                legal excellence.</p>
                             </div>
                         </div>
                         <div className="col-lg-4">
@@ -23,8 +22,8 @@ const Contact = () => {
                                 </div>
                                 <h2 className="contact-info-one__title">Our
                                     Address</h2>
-                                <p className="contact-info-one__text">855 Road Broklyn Street, <br />
-                                    600 New York, United States of <br /> America</p>
+                                <p className="contact-info-one__text">403, Vibrant Tower,  <br />
+                                Manoramaganj, New Palasia, <br />Indore, Madhya Pradesh 452001<br/><br/>  </p>
                             </div>
                         </div>
                         <div className="col-lg-4">
@@ -33,8 +32,8 @@ const Contact = () => {
                                 </div>
                                 <h2 className="contact-info-one__title">Contact
                                     Info</h2>
-                                <p className="contact-info-one__text">needhelp@kipso.com <br />
-                                    444 888 0000 <br /> &nbsp;</p>
+                                <p className="contact-info-one__text">info@laweasy.com <br />
+                                    +91 9424044769 <br /> <br/>&nbsp;</p>
                             </div>
                         </div>
                     </div>

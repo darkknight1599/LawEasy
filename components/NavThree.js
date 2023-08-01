@@ -126,12 +126,12 @@ class NavThree extends Component {
                             </ul>
                         </div>
                         <div className="right-side-box">
-                            <div className="header__social">
+                            {/* <div className="header__social">
                                 <a href="#"><i className="fab fa-twitter"></i></a>
                                 <a href="#"><i className="fab fa-facebook-square"></i></a>
                                 <a href="#"><i className="fab fa-pinterest-p"></i></a>
                                 <a href="#"><i className="fab fa-instagram"></i></a>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </nav>

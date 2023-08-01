@@ -24,7 +24,7 @@ export default class VideoTwo extends Component {
                                     <h2 className="video-two__title">Law Easy is only <br />
                                         mission is to extend <br />
                                         your knowledge base</h2>
-                                    <a href="#" className="thm-btn">Learn More</a>
+                                    {/* <a href="#" className="thm-btn">Learn More</a> */}
                                 </div>
                             </div>
                             <div className="col-lg-5 d-flex justify-content-lg-end justify-content-sm-start">

@@ -23,7 +23,7 @@ const SliderTwo = () => {
             <section className="banner-two banner-carousel__one no-dots">
                 <Swiper getSwiper={setSwiper}>
                     <div className="banner-two__slide banner-two__slide-one"
-                         style={{backgroundImage: `url(assets/images/slider-2-1.jpg)`}}>
+                         style={{backgroundImage: `url(assets/images/lawlogo1.png)`}}>
                         <div className="container">
                             <div className="row no-gutters">
                                 <div className="col-xl-12">
@@ -37,7 +37,7 @@ const SliderTwo = () => {
                         </div>
                     </div>
                     <div className="banner-two__slide banner-two__slide-two"
-                         style={{backgroundImage: `url(assets/images/slider-2-2.jpg)`}}>
+                         style={{backgroundImage: `url(assets/images/law.png)`}}>
                         <div className="container">
                             <div className="row no-gutters">
                                 <div className="col-xl-12">

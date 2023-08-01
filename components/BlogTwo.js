@@ -113,7 +113,7 @@ const BlogTwo = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="item">
+                    {/* <div className="item">
                         <div className="blog-two__single" style={{backgroundImage: `url(assets/images/blog-2-2.jpg)`}}>
                             <div className="blog-two__inner">
                                 <a href="news-details.html" className="blog-two__date">
@@ -129,8 +129,8 @@ const BlogTwo = () => {
                                 </h3>
                             </div>
                         </div>
-                    </div>
-                    <div className="item">
+                    </div> */}
+                    {/* <div className="item">
                         <div className="blog-two__single" style={{backgroundImage: `url(assets/images/blog-2-3.jpg)`}}>
                             <div className="blog-two__inner">
                                 <a href="news-details.html" className="blog-two__date">
@@ -197,7 +197,7 @@ const BlogTwo = () => {
                                 </h3>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     </Swiper>
                 </div>
             </div>
