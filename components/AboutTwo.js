@@ -56,7 +56,7 @@ export default class AboutTwo extends Component {
                         <div className="col-xl-6 d-flex justify-content-xl-end justify-content-sm-center">
                             <div className="about-two__image">
                                 <span className="about-two__image-dots"></span>
-                                <img src="/assets/images/about-1-1.jpg" alt="" />
+                                <img src="/assets/images/about.jpeg" alt="" width="529px" height="529px"/>
                                     <div className="about-two__count">
                                         <div className="about-two__count-text">Trusted by
                                             <span className="counter">

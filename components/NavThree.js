@@ -49,7 +49,7 @@ class NavThree extends Component {
                     <div className="container">
                         <div className="topbar-one__left">
                             <a href="#">info@laweasy.com</a>
-                            <a href="#">+91 99999-99999</a>
+                            <a href="#">+91 9424044769</a>
                         </div>
                         {/* <div className="topbar-one__right">
                             <a href="#">Login</a>

@@ -7,7 +7,7 @@ class CallToActionThree extends Component {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6 clearfix">
-                            <img src="/assets/images/cta-1.jpg" className="cta-three__image" alt="" />
+                            <img src="/assets/images/cta.jpg" className="cta-three__image" alt="" height="764px" width="932px"/>
                         </div>
                         <div className="col-lg-6">
                             <div className="cta-three__content">

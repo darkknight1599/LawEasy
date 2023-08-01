@@ -48,13 +48,13 @@ const SliderOne = () => {
                             <div className="banner-one__bubble-2"></div>
                             <div className="banner-one__bubble-3"></div>
                             <img src="/assets/images/slider-1-scratch.png" alt="" className="banner-one__scratch" />
-                            <img src="/assets/images/slider-1-person-2.png" className="banner-one__person" alt="" />
+                            <img src="/assets/images/banner2.jpeg" className="banner-one__person" alt="" width="440px" height="742px" />
                             <div className="row no-gutters">
                                 <div className="col-xl-12">
-                                    <h3 className="banner-one__title banner-one__light-color">We Can <br />
-                                        Teach You</h3>
-                                    <p className="banner-one__tag-line">are you ready to
-                                        learn?</p>
+                                    <h3 className="banner-one__title banner-one__light-color">Empower  <br /> Your<br/>
+                                        Learning</h3>
+                                    <p className="banner-one__tag-line">With LawEasy
+                                        </p>
                                     <a href="#" className="thm-btn banner-one__btn">Learn More</a>
                                 </div>
                             </div>
@@ -66,7 +66,7 @@ const SliderOne = () => {
                 <div onClick={goPrev} className="banner-carousel-btn__left-btn banner-arrow"><i className="kipso-icon-left-arrow"></i></div>
                 <div onClick={goNext} className="banner-carousel-btn__right-btn banner-arrow"><i className="kipso-icon-right-arrow"></i></div>
             </div>
-            <div className="banner-one__cta">
+            {/* <div className="banner-one__cta">
                 <div className="banner-one__cta-icon">
                     <i className="kipso-icon-black-graduation-cap-tool-of-university-student-for-head"></i>
                 </div>
@@ -77,7 +77,7 @@ const SliderOne = () => {
                 <div className="banner-one__cta-link">
                     <a href="#"><i className="kipso-icon-right-arrow"></i></a>
                 </div>
-            </div>
+            </div> */}
         </div>
     );
 }
