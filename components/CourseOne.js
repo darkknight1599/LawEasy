@@ -41,7 +41,10 @@ const CourseOne = () => {
         <section className="course-one__top-title home-one">
             <div className="container">
                 <div className="block-title mb-0">
-                    <h2 className="block-title__title">Explore our <br />
+                    {/* <h2 className="block-title__title">Explore our <br />
+                        popular courses</h2> */}
+                        <img src='/assets/images/coursesbanner2.jpg' width="100%" height="300px" style={{borderRadius:20}}/>
+                        <h2 className="block-title__title" style={{paddingTop:40}}>Explore our <br />
                         popular courses</h2>
                 </div>
             </div>

@@ -40,7 +40,8 @@ const BlogTwo = () => {
         <section className="blog-two">
             <div className="container">
                 <div className="block-title text-center">
-                    <h2 className="block-title__title">Our latest news <br />
+                    <img src='/assets/images/articlebanner.jpg' width="70%" height="300px" style={{borderRadius:20}}/>
+                    <h2 className="block-title__title" style={{paddingTop:30}}>Our latest news <br />
                         & articles</h2>
                 </div>
                 <div className="blog-two__carousel">

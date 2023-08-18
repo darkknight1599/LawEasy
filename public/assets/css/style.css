@@ -75,7 +75,9 @@ a:visited {
 }
 .block-title {
   text-align: center;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
+  display: flex;
+  margin-left: 0px;
 }
 .block-title__title {
   margin: 0;
@@ -3123,7 +3125,7 @@ a:visited {
 }
 
 .course-one__top-title {
-  padding: 128px 0;
+  padding: 100px ;
   position: relative;
 }
 .course-one__top-title::before {
@@ -3808,7 +3810,8 @@ a:visited {
   background-size: cover;
   position: relative;
   background-color: #2da397;
-  padding-bottom: 188px;
+  /* background-image: url(/public/assets/images/coursesbanner.jpg); */
+  /* padding-bottom: 188px; */
 }
 .course-one__top-title.home-one:after {
   content: '';
@@ -3817,8 +3820,8 @@ a:visited {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url(../images/patter-1-1.jpg);
-  opacity: 0.05;
+  /* background-image: url(../images/patter-1-1.jpg); */
+  /* opacity: 0.05; */
 }
 .course-one__top-title.home-one .block-title__title {
   color: #fff;
@@ -4996,7 +4999,7 @@ a:visited {
 }
 
 .blog-two {
-  padding-top: 110px;
+  padding-top: 90px;
   margin-bottom: 205px;
   background-position: center center;
   background-repeat: no-repeat;

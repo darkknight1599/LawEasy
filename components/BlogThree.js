@@ -5,8 +5,10 @@ const BlogThree = () => {
         <section className="blog-one  blog-one__home-two">
             <div className="container">
                 <div className="block-title text-center">
+                    <img src='/assets/images/articlebanner.jpg'/>
                     <h2 className="block-title__title">Our latest news <br />
                         & articles</h2>
+
                 </div>
                 <div className="row">
                     <div className="col-lg-4">
