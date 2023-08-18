@@ -968,7 +968,7 @@ a:visited {
 .banner-one__slide {
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   position: relative;
   background-color: #022c46;
 }
@@ -979,8 +979,9 @@ a:visited {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url(../images/patter-1-1.jpg);
-  opacity: 0.08;
+  /* background-image: url(../images/wadhwanibanner.jpg); */
+  
+  /* opacity: 0.08; */
 }
 .banner-one__light-color {
   color: #fff;
