@@ -73,6 +73,11 @@ a:visited {
     max-width: 1200px;
   }
 }
+.testimonial{
+  position: relative;
+  display: flex;
+  /* flex-direction: row; */
+}
 .block-title {
   text-align: center;
   margin-bottom: 30px;
