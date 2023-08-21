@@ -50,11 +50,10 @@ const TestimonialOne = () => {
                                 <div className="testimonials-one__qoute">
                                     <img src="/assets/images/qoute-1-1.png" alt="" />
                                 </div>
-                                <p className="testimonials-one__text">There are many variations of passages of lore ipsu
-                                    available but
-                                    the majority.</p>
-                                <img src="/assets/images/team-1-1.jpg" alt="" className="testimonials-one__img" />
-                                    <h3 className="testimonials-one__name">Anne Hall</h3>
+                                <p className="testimonials-one__text">Thanks so much...for teaching law in so easy manner
+                                 with day to day illustration. best class in indore.</p>
+                                {/* <img src="/assets/images/team-1-1.jpg" alt="" className="testimonials-one__img" /> */}
+                                    <h3 className="testimonials-one__name">Yogesh Dwivedi</h3>
                                     <p className="testimonials-one__designation">Student</p>
                             </div>
                         </div>
@@ -63,12 +62,9 @@ const TestimonialOne = () => {
                                 <div className="testimonials-one__qoute">
                                     <img src="/assets/images/qoute-1-1.png" alt="" />
                                 </div>
-                                <p className="testimonials-one__text">There are many variations of passages of lore ipsu
-                                    available but
-                                    the majority have suffered alteration in some form.</p>
-                                <img src="/assets/images/team-1-2.jpg" alt="" className="testimonials-one__img" />
-                                    <h3 className="testimonials-one__name">Andre
-                                        Obrien</h3>
+                                <p className="testimonials-one__text">So nice experience....Best Law classes in Indore.</p>
+                                {/* <img src="/assets/images/team-1-2.jpg" alt="" className="testimonials-one__img" /> */}
+                                    <h3 className="testimonials-one__name">Unnati Bhagwani</h3>
                                     <p className="testimonials-one__designation">Student</p>
                             </div>
                         </div>
@@ -77,12 +73,10 @@ const TestimonialOne = () => {
                                 <div className="testimonials-one__qoute">
                                     <img src="/assets/images/qoute-1-1.png" alt="" />
                                 </div>
-                                <p className="testimonials-one__text">There are many variations of passages of lore ipsu
-                                    available but
-                                    the majority have suffered alteration in some form, by injected humour.</p>
-                                <img src="/assets/images/team-1-3.jpg" alt="" className="testimonials-one__img" />
-                                    <h3 className="testimonials-one__name">Shane
-                                        Vasquez</h3>
+                                <p className="testimonials-one__text">Best law class in low fees.
+                                                         Teach law in a very simple way👌👌</p>
+                                {/* <img src="/assets/images/team-1-3.jpg" alt="" className="testimonials-one__img" /> */}
+                                    <h3 className="testimonials-one__name">Sawan Yadav</h3>
                                     <p className="testimonials-one__designation">Student</p>
                             </div>
                         </div>
@@ -91,15 +85,13 @@ const TestimonialOne = () => {
                                 <div className="testimonials-one__qoute">
                                     <img src="/assets/images/qoute-1-1.png" alt="" />
                                 </div>
-                                <p className="testimonials-one__text">There are many variations of passages of lore ipsu
-                                    available but
-                                    the majority.</p>
-                                <img src="/assets/images/team-1-4.jpg" alt="" className="testimonials-one__img" />
-                                    <h3 className="testimonials-one__name">Maud Lee</h3>
+                                <p className="testimonials-one__text">Teaching is great</p>
+                                {/* <img src="/assets/images/team-1-4.jpg" alt="" className="testimonials-one__img" /> */}
+                                    <h3 className="testimonials-one__name">Karan Yadav</h3>
                                     <p className="testimonials-one__designation">Student</p>
                             </div>
                         </div>
-                        <div className="item">
+                        {/* <div className="item">
                             <div className="testimonials-one__single">
                                 <div className="testimonials-one__qoute">
                                     <img src="/assets/images/qoute-1-1.png" alt="" />
@@ -112,8 +104,8 @@ const TestimonialOne = () => {
                                         Kennedy</h3>
                                     <p className="testimonials-one__designation">Student</p>
                             </div>
-                        </div>
-                        <div className="item">
+                        </div> */}
+                        {/* <div className="item">
                             <div className="testimonials-one__single">
                                 <div className="testimonials-one__qoute">
                                     <img src="/assets/images/qoute-1-1.png" alt="" />
@@ -126,8 +118,8 @@ const TestimonialOne = () => {
                                         Carter</h3>
                                     <p className="testimonials-one__designation">Student</p>
                             </div>
-                        </div>
-                        <div className="item">
+                        </div> */}
+                        {/* <div className="item">
                             <div className="testimonials-one__single">
                                 <div className="testimonials-one__qoute">
                                     <img src="/assets/images/qoute-1-1.png" alt="" />
@@ -139,8 +131,8 @@ const TestimonialOne = () => {
                                     <h3 className="testimonials-one__name">Sally Green</h3>
                                     <p className="testimonials-one__designation">Student</p>
                             </div>
-                        </div>
-                        <div className="item">
+                        </div> */}
+                        {/* <div className="item">
                             <div className="testimonials-one__single">
                                 <div className="testimonials-one__qoute">
                                     <img src="/assets/images/qoute-1-1.png" alt="" />
@@ -152,8 +144,8 @@ const TestimonialOne = () => {
                                     <h3 className="testimonials-one__name">Iva Santos</h3>
                                     <p className="testimonials-one__designation">Student</p>
                             </div>
-                        </div>
-                        <div className="item">
+                        </div> */}
+                        {/* <div className="item">
                             <div className="testimonials-one__single">
                                 <div className="testimonials-one__qoute">
                                     <img src="/assets/images/qoute-1-1.png" alt="" />
@@ -165,7 +157,7 @@ const TestimonialOne = () => {
                                     <h3 className="testimonials-one__name">Max Burns</h3>
                                     <p className="testimonials-one__designation">Student</p>
                             </div>
-                        </div>
+                        </div> */}
                     </Swiper>
                 </div>
             </div>

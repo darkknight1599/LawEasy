@@ -33,6 +33,7 @@ const SliderOne = () => {
                             {/* <img src="/assets/images/wadhwani-banner.jpeg" className="banner-one__person" alt="" height="742px" width="440px"/> */}
                             <div className="row no-gutters">
                                 <img src="/assets/images/articlebanner.jpeg" width="100%" height="100%"/>
+                                <h2 className="bannerheading">Welcome to LawEasy</h2>
                                 {/* <div className="col-xl-12">
                                     <h3 className="banner-one__title banner-one__light-color"> <br />
                                         <br/></h3>
