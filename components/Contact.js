@@ -33,7 +33,7 @@ const Contact = () => {
                                 <h2 className="contact-info-one__title">Contact
                                     Info</h2>
                                 <p className="contact-info-one__text">info@laweasy.com <br />
-                                    +91 9424044769 <br /> <br/>&nbsp;</p>
+                                    +91 9424044769 / +91 9827396423<br /> <br/>&nbsp;</p>
                             </div>
                         </div>
                     </div>

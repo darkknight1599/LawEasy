@@ -87,6 +87,20 @@ const Gallery = () => {
                                     className="fas fa-play"></i></a>
                         </div>
                     </div>
+                    <div className="col-lg-4 col-md-6">
+                        <div className="gallery-one__single">
+                            <img src="/assets/images/student-3.jpg" alt="" width="370" height="370"/>
+                                <a href="assets/images/video3.mp4" className="gallery-one__popup img-popup"><i
+                                    className="fas fa-play"></i></a>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-6">
+                        <div className="gallery-one__single">
+                            <img src="/assets/images/student-4.jpg" alt="" width="370" height="370"/>
+                                <a href="assets/images/video4.mp4" className="gallery-one__popup img-popup"><i
+                                    className="fas fa-play"></i></a>
+                        </div>
+                    </div>
                 </div>    
             </div>
         </section>
