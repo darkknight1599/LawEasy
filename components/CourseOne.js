@@ -103,8 +103,7 @@ const CourseOne = () => {
                                         {/* <img src="/assets/images/team-1-2.jpg" alt="" />
                                             by <a href="/teacher-details">Cora Diaz</a> */}
                                     {/* </div> */}
-                                    <h2 className="course-one__title"><a href="/course-details">LAW EASY CLAT
-                                        </a></h2>
+                                    <h2 className="course-one__title">LAW EASY CLAT</h2>
                                     {/* <div className="course-one__stars">
                                 <span className="course-one__stars-wrap">
                                     <i className="fa fa-star"></i>
@@ -140,8 +139,7 @@ const CourseOne = () => {
                                         {/* <img src="/assets/images/team-1-2.jpg" alt="" />
                                             by <a href="/teacher-details">Cora Diaz</a> */}
                                     {/* </div> */}
-                                    <h2 className="course-one__title"><a href="/course-details">LAW EASY CUET
-                                        </a></h2>
+                                    <h2 className="course-one__title">LAW EASY CUET</h2>
                                     {/* <div className="course-one__stars">
                                 <span className="course-one__stars-wrap">
                                     <i className="fa fa-star"></i>
@@ -177,8 +175,7 @@ const CourseOne = () => {
                                         {/* <img src="/assets/images/team-1-3.jpg" alt="" />
                                             by <a href="/teacher-details">Ruth Becker</a> */}
                                     {/* </div> */}
-                                    <h2 className="course-one__title"><a href="/course-details">LAW EASY ADJ
-                                        </a></h2>
+                                    <h2 className="course-one__title">LAW EASY ADJ</h2>
                                     {/* <div className="course-one__stars">
                                 <span className="course-one__stars-wrap">
                                     <i className="fa fa-star"></i>
@@ -213,8 +210,7 @@ const CourseOne = () => {
                                         {/* <img src="/assets/images/team-1-3.jpg" alt="" />
                                             by <a href="/teacher-details">Ruth Becker</a> */}
                                     {/* </div> */}
-                                    <h2 className="course-one__title"><a href="/course-details">LAW EASY JUDICIARY
-                                        </a></h2>
+                                    <h2 className="course-one__title">LAW EASY JUDICIARY</h2>
                                     {/* <div className="course-one__stars">
                                 <span className="course-one__stars-wrap">
                                     <i className="fa fa-star"></i>
@@ -231,8 +227,7 @@ const CourseOne = () => {
                                         <a href="/course-details"><i className="far fa-folder-open"></i> 6
                                             Lectures</a>
                                         <a href="/course-details">$18</a> */}
-                                        <p>Programme for Civil Judge Aspirants for State Judicial Services Exams<br/>
-<b>(Online + Offline)</b></p>
+                                        <p>Programme for Civil Judge Aspirants for State Judicial Services Exams<br/><b>(Online + Offline)</b></p>
                                     </div>
                                     {/* <a href="#" className="course-one__link">See Preview</a> */}
                                 </div>
@@ -250,8 +245,7 @@ const CourseOne = () => {
                                         <img src="/assets/images/team-1-1.jpg" alt="" /> 
                                             by <a href="/teacher-details">Lou Guerrero</a>
                                     </div> */}
-                                    <h2 className="course-one__title"><a href="/course-details">LAW EASY AIBE
-                                        </a></h2>
+                                    <h2 className="course-one__title">LAW EASY AIBE</h2>
                                     {/* <div className="course-one__stars">
                                 <span className="course-one__stars-wrap">
                                     <i className="fa fa-star"></i>
@@ -286,8 +280,7 @@ const CourseOne = () => {
                                         <img src="/assets/images/team-1-1.jpg" alt="" /> 
                                             by <a href="/teacher-details">Lou Guerrero</a>
                                     </div> */}
-                                    <h2 className="course-one__title"><a href="/course-details">LAW EASY ADPO
-                                        </a></h2>
+                                    <h2 className="course-one__title">LAW EASY ADPO</h2>
                                     {/* <div className="course-one__stars">
                                 <span className="course-one__stars-wrap">
                                     <i className="fa fa-star"></i>
@@ -322,8 +315,7 @@ const CourseOne = () => {
                                         <img src="/assets/images/team-1-1.jpg" alt="" /> 
                                             by <a href="/teacher-details">Lou Guerrero</a>
                                     </div> */}
-                                    <h2 className="course-one__title"><a href="/course-details">LAW EASY LLB
-                                        </a></h2>
+                                    <h2 className="course-one__title">LAW EASY LLB</h2>
                                     {/* <div className="course-one__stars">
                                 <span className="course-one__stars-wrap">
                                     <i className="fa fa-star"></i>
@@ -358,9 +350,7 @@ const CourseOne = () => {
                                         <img src="/assets/images/team-1-5.jpg" alt="" />
                                             by <a href="/teacher-details">Isabella Stanley</a>
                                     </div> */}
-                                    <h2 className="course-one__title"><a href="/course-details">LAW EASY BA.LLB
-                                        </a>
-                                    </h2>
+                                    <h2 className="course-one__title">LAW EASY BA.LLB</h2>
                                     {/* <div className="course-one__stars">
                                 <span className="course-one__stars-wrap">
                                     <i className="fa fa-star"></i>
@@ -396,8 +386,7 @@ const CourseOne = () => {
                                         <img src="/assets/images/team-1-1.jpg" alt="" /> 
                                             by <a href="/teacher-details">Lou Guerrero</a>
                                     </div> */}
-                                    <h2 className="course-one__title"><a href="/course-details">LAW EASY LLM
-                                        </a></h2>
+                                    <h2 className="course-one__title">LAW EASY LLM</h2>
                                     {/* <div className="course-one__stars">
                                 <span className="course-one__stars-wrap">
                                     <i className="fa fa-star"></i>

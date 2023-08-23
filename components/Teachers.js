@@ -12,7 +12,7 @@ const Teachers = () => {
                                 <img src="/assets/images/pankaj4.jpeg" alt="" height="206px" width="206px"/>
                             </div>
                             <div className="team-one__content">
-                                <h2 className="team-one__name"><Link href="/teacher-details"><a>Pankaj Wadhwani</a></Link></h2>
+                                <h2 className="team-one__name"><a>Pankaj Wadhwani</a></h2>
                                 <p className="team-one__designation">Founder & Teacher</p>
                                 <p className="team-one__text">Recipient of 5 gold medals in law, Ex Government Advocate M.p. High Court Indore </p>
                             </div>
@@ -30,7 +30,7 @@ const Teachers = () => {
                                 <img src="/assets/images/team-1-2.jpg" alt="" />
                             </div>
                             <div className="team-one__content">
-                                <h2 className="team-one__name"><Link href="/teacher-details"><a>Adv Preeti Jaiswal</a></Link></h2>
+                                <h2 className="team-one__name"><a>Adv Preeti Jaiswal</a></h2>
                                 <p className="team-one__designation">Teacher</p>
                                 <p className="team-one__text">BSc, MBA ( HR and Finance), LLB, LLM<br/><br/><br/></p>
                             </div>

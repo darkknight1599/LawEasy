@@ -76,7 +76,7 @@ const Footer = () => {
                     <div className="site-footer__bottom">
                         <div className="container">
                             <p className="site-footer__copy">&copy; Copyright 2020 by <a href="#">laweasy</a></p>
-                            <div className="site-footer__social">
+                            {/* <div className="site-footer__social">
 
                                 <div onClick={scrollTop} className="scroll-to-target site-footer__scroll-top"><i
                                     className="kipso-icon-top-arrow"></i></div>
@@ -86,7 +86,7 @@ const Footer = () => {
                                 <a href="#"><i className="fab fa-facebook-square"></i></a>
                                 <a href="#"><i className="fab fa-pinterest-p"></i></a>
                                 <a href="#"><i className="fab fa-instagram"></i></a>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </footer>

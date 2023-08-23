@@ -18,8 +18,7 @@ const Courses = () => {
                                     <img src="/assets/images/team-1-1.jpg" alt="" />
                                     by <Link href="/teacher-details"><a>Lou Guerrero</a></Link>
                                 </div> */}
-                                <h2 className="course-one__title"><Link href="/course-details"><a>LAW EASY CLAT</a></Link>
-                                </h2>
+                                <h2 className="course-one__title">LAW EASY CLAT</h2>
                                 {/* <div className="course-one__stars">
                                     <span className="course-one__stars-wrap">
                                         <i className="fa fa-star"></i>
@@ -54,7 +53,7 @@ const Courses = () => {
                                     <img src="/assets/images/team-1-2.jpg" alt="" />
                                         by <Link href="/teacher-details"><a>Cora Diaz</a></Link>
                                 </div> */}
-                                <h2 className="course-one__title"><Link href="/course-details"><a>LAW EASY CUET</a></Link></h2>
+                                <h2 className="course-one__title">LAW EASY CUET</h2>
                                 {/* <div className="course-one__stars">
                                     <span className="course-one__stars-wrap">
                                         <i className="fa fa-star"></i>
@@ -90,7 +89,7 @@ const Courses = () => {
                                         by <Link href="/teacher-details"><a>Ruth Becker</a></Link>
                                 </div> */}
                                 <h2 className="course-one__title">
-                                    <Link href="/course-details"><a>LAW EASY ADJ</a></Link>
+                                   LAW EASY ADJ
                                 </h2>
                                 {/* <div className="course-one__stars">
                                     <span className="course-one__stars-wrap">
@@ -127,7 +126,7 @@ const Courses = () => {
 
                                 </div> */}
                                 <h2 className="course-one__title">
-                                    <Link href="/course-details"><a>LAW EASY JUDICIARY</a></Link>
+                                    LAW EASY JUDICIARY
                                 </h2>
                                 {/* <div className="course-one__stars">
                                     <span className="course-one__stars-wrap">
@@ -164,7 +163,7 @@ const Courses = () => {
                                         by <Link href="/teacher-details"><a>Isabella Stanley</a></Link>
                                 </div> */}
                                 <h2 className="course-one__title">
-                                   <Link href="/course-details"><a>LAW EASY AIBE</a></Link>
+                                   LAW EASY AIBE
                                 </h2>
                                 {/* <div className="course-one__stars">
                                     <span className="course-one__stars-wrap">
@@ -200,7 +199,7 @@ const Courses = () => {
                                         by <Link href="/teacher-details"><a>Katherine Collins</a></Link>
                                 </div> */}
                                 <h2 className="course-one__title">
-                                    <Link href="/course-details"><a>LAW EASY ADPO</a></Link>
+                                    LAW EASY ADPO
                                 </h2>
                                 {/* <div className="course-one__stars">
                                     <span className="course-one__stars-wrap">
@@ -236,7 +235,7 @@ const Courses = () => {
                                         by <Link href="/teacher-details"><a>Katherine Collins</a></Link>
                                 </div> */}
                                 <h2 className="course-one__title">
-                                    <Link href="/course-details"><a>LAW EASY LLB</a></Link>
+                                  LAW EASY LLB
                                 </h2>
                                 {/* <div className="course-one__stars">
                                     <span className="course-one__stars-wrap">
@@ -272,7 +271,7 @@ const Courses = () => {
                                         by <Link href="/teacher-details"><a>Katherine Collins</a></Link>
                                 </div> */}
                                 <h2 className="course-one__title">
-                                    <Link href="/course-details"><a>LAW EASY BA.LLB</a></Link>
+                                    LAW EASY BA.LLB
                                 </h2>
                                 {/* <div className="course-one__stars">
                                     <span className="course-one__stars-wrap">
@@ -308,7 +307,7 @@ const Courses = () => {
                                         by <Link href="/teacher-details"><a>Katherine Collins</a></Link>
                                 </div> */}
                                 <h2 className="course-one__title">
-                                    <Link href="/course-details"><a>LAW EASY LLM</a></Link>
+                                    LAW EASY LLM
                                 </h2>
                                 {/* <div className="course-one__stars">
                                     <span className="course-one__stars-wrap">
