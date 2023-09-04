@@ -13,7 +13,7 @@ import NavThree from '../components/NavThree';
 
 const AboutPage = () => {
     return (
-        <Layout pageTitle="Kipso | About">
+        <Layout pageTitle="Law Easy | About">
             <NavThree />
             <PageHeader title="About" />
             <AboutOne />

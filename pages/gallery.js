@@ -7,7 +7,7 @@ import Gallery from "../components/Gallery";
 
 const GalleryPage = () => {
     return (
-        <Layout pageTitle="Kipso | Gallery">
+        <Layout pageTitle="Law Easy | Gallery">
             <NavThree />
             <PageHeader title="Gallery" />
             <Gallery />
